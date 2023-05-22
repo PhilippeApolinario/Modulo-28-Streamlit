@@ -33,10 +33,10 @@ https://telemarketing-zo1w.onrender.com/
 
 ### Executando o projeto
 
-1 - Baixe o Projeto  
-2 - Descompacte o arquivo  
-3 - Clique no link do webapp  
-4 - No webapp, vá em Browse files e busque no diretório do projeto pelo arquivo "bank-additional.csv"  
+ 1 - Baixe o Projeto    
+ 2 - Descompacte o arquivo    
+ 3 - Clique no link do webapp    
+ 4 - No webapp, vá em Browse files e busque no diretório do projeto pelo arquivo "bank-additional.csv"    
 
 https://user-images.githubusercontent.com/100958973/233174981-3240343c-9deb-462f-8099-27d81a20472f.mov
 
@@ -44,7 +44,7 @@ https://user-images.githubusercontent.com/100958973/233174981-3240343c-9deb-462f
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
- Philippe Apolinário
+ Philippe Apolinário  
  [@PhilippeApolinario](https://www.linkedin.com/in/philipperapolinario/)
 
 ## Histórico de versões.
