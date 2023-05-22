@@ -1,10 +1,13 @@
 # Análise dos dados de Telemarketing
 
-Um simples resumo do uso/propósito do projeto.
-
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Uma instituição bancária portuguesa deseja prever se seus clientes irão contratar ou não o serviço do banco.
+Os dados estão relacionados com campanhas de marketing direto de uma instituição bancária portuguesa. As campanhas de marketing foram baseadas em telefonemas. Muitas vezes, era necessário mais do que um contacto para o mesmo cliente.
+O objetivo da classificação é prever se o cliente irá contratar ou não o serviço e disponibilizar para a instituição um webapp para auxiliar na tomada de decisão.
+
+• Realizar análise descritiva e estatística para compreender, organizar os dados e detectar padrões;
+• Realizar análise preditiva para prever se o cliente irá contratar ou não o serviço.
 
 ## Link para aplicação (LIVE)
 https://telemarketing-zo1w.onrender.com/
@@ -13,57 +16,42 @@ https://telemarketing-zo1w.onrender.com/
 
 ### Dependencias
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+* Sistema Operacional:
+    * Windows 10 ou 11
 
-### Instalação
+* Bibliotecas:
+    * Pandas
+    * Matplotlib
+    * Seaborn
+    * Pillow
+    
+* Módulos:
+    * BytesIO
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+* Frameworks:
+    * Streamlit 
 
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+1 - Baixe o Projeto
+2 - Descompacte o arquivo
+3 - Clique no link do webapp
+4 - No webapp, vá em Browse files e busque no diretório do projeto pelo arquivo "bank-additional.csv"
 
-## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
+https://user-images.githubusercontent.com/100958973/233174981-3240343c-9deb-462f-8099-27d81a20472f.mov
 
 ## Autores
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
- Philippe Apolinário 
+ Philippe Apolinário
+ [@PhilippeApolinario](https://www.linkedin.com/in/philipperapolinario/)
 
 ## Histórico de versões.
 
-* 0.2
-	* Ajustes de diversos bugs e otimização
 * 0.1
     * Primeira versão
 
 ## Licença de uso
 
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
-
-## Fontes de inspiração
-
-Inspiração, trechos de códigos utilizados, etc.
-* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-
-https://user-images.githubusercontent.com/100958973/233174981-3240343c-9deb-462f-8099-27d81a20472f.mov
-
-
-
+Esse projeto possui licença de uso [MIT] - acesse o arquivo LICENSE.md para mais detalhes.
